@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -22,21 +22,27 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>✋ <a href="https://github.com/Jordo09123/Hand-Gesture-Volume-Control-">Hand Gesture Volume Control</a></h4>
-      Control your Windows system volume in real time using just your hand — no keyboard, no mouse. Tracks your hand with MediaPipe, measures the distance between thumb and index finger, and maps it to system volume.
+    <td width="33%" valign="top">
+      <h4> <a href="https://grillseekr.vercel.app/">GrillSeekr</a></h4>
+      Hackathon project for tracking public BBQs around the Wollongong area — find one nearby, see its status, and plan your cookout.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <h4> <a href="https://github.com/Jordo09123/Hand-Gesture-Volume-Control-">Hand Gesture Volume Control</a></h4>
+      Control your Windows system volume in real time using just your hand, no keyboard, no mouse. Tracks your hand with MediaPipe, measures the distance between thumb and index finger, and maps it to system volume.
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
       <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" />
     </td>
-    <td width="50%" valign="top">
-      <h4>🎉 <a href="https://github.com/Jordo09123/Rick-roll-button-">Rick Roll Button</a></h4>
-      My personal favourite — a deceptively simple button with a very predictable outcome. Peak engineering.
+    <td width="33%" valign="top">
+      <h4> <a href="https://github.com/Jordo09123/Rick-roll-button-">Rick Roll Button</a></h4>
+      My personal favourite, a deceptively simple button that is totally worth clicking.
       <br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -46,9 +52,9 @@
 
 ---
 
-### 📫 Get in touch
+### Get in touch
 
-Feel free to reach out via LinkedIn on my profile — always happy to chat about random projects and niche ideas!
+Feel free to reach out via LinkedIn on my profile, always happy to chat about random projects and niche ideas!
 
 <!--
 **Jordo09123/Jordo09123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
