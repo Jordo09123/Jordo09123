@@ -31,6 +31,10 @@
       Hackathon project for tracking public BBQs around the Wollongong area — find one nearby, see its status, and plan your cookout.
       <br/><br/>
       <img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/IoT-00979D?style=flat-square" />
     </td>
     <td width="33%" valign="top">
       <h4> <a href="https://github.com/Jordo09123/Hand-Gesture-Volume-Control-">Hand Gesture Volume Control</a></h4>
