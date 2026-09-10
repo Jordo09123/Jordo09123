@@ -52,6 +52,22 @@
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4> <a href="https://github.com/Jordo09123/Flight-Booking-Management-System-CSIT214">Flight Booking Management System</a></h4>
+      Project for managing flight bookings, searching flights, booking seats, and handling reservations end to end.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4> <a href="https://github.com/Jordo09123/CSIT314-Intelligent-Talent-Matching-Platform">Intelligent Talent Matching Platform</a></h4>
+      Project connecting job seekers with employers, matching candidates to roles based on their skills and profile.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
 ---
