@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Jordan, a software developer based in Australia, NSW
+
+I design and build whatever I can imagine, or that interests me
+
+If a niche and cool idea pops into my head, 9 times out of 10 I'll build it and ship it
+
+My main tech stack is Python, MySQL, PostgreSQL, HTML, CSS, JavaScript and Java
+
 <!--
 **Jordo09123/Jordo09123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
