@@ -1,24 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jordan</h1>
+<h3 align="center">Software developer based in NSW, Australia</h3>
 
-I'm Jordan, a software developer based in Australia, NSW
+<p align="center">
+  I design and build whatever I can imagine, or that interests me.<br/>
+  If a niche, cool idea pops into my head, 9 times out of 10 I'll build it and ship it.
+</p>
 
-I design and build whatever I can imagine, or that interests me
+---
 
-If a niche and cool idea pops into my head, 9 times out of 10 I'll build it and ship it
+### 🛠️ Tech Stack
 
-My main tech stack is Python, MySQL, PostgreSQL, HTML, CSS, JavaScript and Java
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>✋ <a href="https://github.com/Jordo09123/Hand-Gesture-Volume-Control-">Hand Gesture Volume Control</a></h4>
+      Control your Windows system volume in real time using just your hand — no keyboard, no mouse. Tracks your hand with MediaPipe, measures the distance between thumb and index finger, and maps it to system volume.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎉 <a href="https://github.com/Jordo09123/Rick-roll-button-">Rick Roll Button</a></h4>
+      My personal favourite — a deceptively simple button with a very predictable outcome. Peak engineering.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📫 Get in touch
+
+Feel free to reach out via LinkedIn on my profile — always happy to chat about random projects and niche ideas!
 
 <!--
 **Jordo09123/Jordo09123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
