@@ -24,51 +24,13 @@
 
 ### Featured Projects
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4> <a href="https://grillseekr.vercel.app/">GrillSeekr</a></h4>
-      Hackathon project for tracking public BBQs around the Wollongong area — find one nearby, see its status, and plan your cookout.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/IoT-00979D?style=flat-square" />
-    </td>
-    <td width="33%" valign="top">
-      <h4> <a href="https://github.com/Jordo09123/Hand-Gesture-Volume-Control-">Hand Gesture Volume Control</a></h4>
-      Control your Windows system volume in real time using just your hand, no keyboard, no mouse. Tracks your hand with MediaPipe, measures the distance between thumb and index finger, and maps it to system volume.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" />
-    </td>
-    <td width="33%" valign="top">
-      <h4> <a href="https://github.com/Jordo09123/Rick-roll-button-">Rick Roll Button</a></h4>
-      My personal favourite, a deceptively simple button that is totally worth clicking.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4> <a href="https://github.com/Jordo09123/Flight-Booking-Management-System-CSIT214">Flight Booking Management System</a></h4>
-      Project for managing flight bookings, searching flights, booking seats, and handling reservations end to end.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4> <a href="https://github.com/Jordo09123/CSIT314-Intelligent-Talent-Matching-Platform">Intelligent Talent Matching Platform</a></h4>
-      Project connecting job seekers with employers, matching candidates to roles based on their skills and profile.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-    </td>
-  </tr>
-</table>
+| Project | Overview | Stack |
+|---|---|---|
+| [GrillSeekr](https://grillseekr.vercel.app/) | Hackathon project for tracking public BBQs around the Wollongong area — find one nearby, see its status, and plan your cookout. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square) |
+| [Hand Gesture Volume Control](https://github.com/Jordo09123/Hand-Gesture-Volume-Control-) | Control your Windows system volume in real time using just your hand, no keyboard, no mouse. Tracks your hand with MediaPipe and maps thumb-to-index distance to system volume. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square) |
+| [Flight Booking Management System](https://github.com/Jordo09123/Flight-Booking-Management-System-CSIT214) | University project for managing flight bookings — searching flights, booking seats, and handling reservations end to end. | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| [Intelligent Talent Matching Platform](https://github.com/Jordo09123/CSIT314-Intelligent-Talent-Matching-Platform) | University project connecting job seekers with employers, matching candidates to roles based on their skills and profile. | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| [Rick Roll Button](https://github.com/Jordo09123/Rick-roll-button-) | My personal favourite — a deceptively simple button that is totally worth clicking. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
 
 ---
 
